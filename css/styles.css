@@ -1,0 +1,38 @@
+
+#name{
+  color: #66bfbf;
+  font-family: Arial;
+}
+
+h2{
+  color: #66bfbf;
+  font-family: monospace;
+}
+
+h3{
+  color: #66bfbf;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #394867;
+  width: 5%;
+  border-width: 3px;
+}
+
+table:hover{
+  background-image: repeating-radial-gradient(#DDDDDD,#EEEEEE);
+}
+p:hover{
+  background-image: repeating-radial-gradient(#DDDDDD,#EEEEEE);
+}
+.movie:hover{
+  background-image: repeating-radial-gradient(#DDDDDD,#EEEEEE);
+}
+.game:hover{
+  background-image: repeating-radial-gradient(#DDDDDD,#EEEEEE);
+}
+ol:hover{
+  background-image: repeating-radial-gradient(#DDDDDD,#EEEEEE);
+}
